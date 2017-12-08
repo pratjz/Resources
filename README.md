@@ -1,6 +1,5 @@
 # Resources
 |                        |                                                                            |
-|------------------------|----------------------------------------------------------------------------|
 | Artificial Intelligence|https://github.com/dtflaneur/Resources/blob/master/resources.ai.md          |
 | BLOGS                  |https://github.com/dtflaneur/Resources/blob/master/blogs.md                 |
 | Data Science           |https://github.com/dtflaneur/Resources/blob/master/resources.ds.md          |
