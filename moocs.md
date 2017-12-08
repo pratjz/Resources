@@ -1,5 +1,15 @@
 # MOOCS
 
+* [Data Mining with Weka](http://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/) - Ian H. Witten
+* [Coursera Mining Massive Datasets](https://class.coursera.org/mmds-002) - Jeff Ullman, Jure Leskovec, Anand Rajaraman (Coursera)
+* [Coursera Introduction to Data Science](https://class.coursera.org/datasci-001/class) - Bill Howe (Coursera)
+* [Udacity Introduction to Hadoop and MapReduce](https://www.udacity.com/course/ud617) - Udacity
+* [Coursera Machine Learning](https://class.coursera.org/ml-003/class) - Andrew Ng (Coursera)
+* [Machine Learning Video Library](http://work.caltech.edu/library/#!?goback=.gde_35222_member_5810981726511443971) - Yaser Abu-Mostafa
+* [Coursera Natural Language Processing](https://class.coursera.org/nlp/lecture/preview) - Dan Jurafsky and Christopher Manning (Coursera)
+* [Coursera Social and Economic Networks: Models and Analysis](https://class.coursera.org/networksonline-001/class) - Matthew O. Jackson (Coursera)
+* [Coursera Social Network Analysis](https://class.coursera.org/sna-003/class) - Lada Adamic (Coursera)
+
 ### Systems
 
 - [CS 61C](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) **Great Ideas in Computer Architecture (Machine Structures)** *UC Berkeley*
