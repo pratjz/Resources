@@ -1,0 +1,41 @@
+- 200 Java Interview Questions and Answers : https://drive.google.com/open?id=0B8KENIDghuHAR05fTGk4YUg0RUk
+- Lambda Expressions and Streams : https://www.youtube.com/watch?v=7YBPb64h2l4
+- Java MultiThreading : https://www.youtube.com/watch?v=AfVbJDr-8ic
+- Java Interview Questions and Answers : https://www.youtube.com/watch?v=5aHZABb1Iwk
+- Java Collections Interview Questions and Answers : https://www.youtube.com/watch?v=3hgYHXDVh-o
+- Exception Handling : https://www.youtube.com/watch?v=wj3UmzeyrvE
+- JUnit : https://www.youtube.com/watch?v=o5k9NOR9lrI
+- Design Patterns : https://www.youtube.com/watch?v=f5Rzr5mVNbY
+- Eclipse : https://www.youtube.com/watch?v=s4ShbtOHMCA
+- Mockito : https://www.youtube.com/watch?v=d2KwvXQgQx4
+- Spring MVC : https://www.youtube.com/watch?v=BjNhGaZDr0Y
+- JSP Servlets : https://www.youtube.com/watch?v=Vvnliarkw48
+- Spring : https://www.youtube.com/watch?v=24rGqtxuLhc
+- OOPS : https://www.youtube.com/watch?v=yJ5RSEZS9oA
+- Maven : https://www.youtube.com/watch?v=0CFWeVgzsqY
+- Code Examples : https://github.com/in28minutes/JavaObjectOrientedProgramming
+- OOPS : https://www.youtube.com/watch?v=yJ5RSEZS9oA
+- What is maven? What does it do? https://github.com/in28minutes/MavenIn28Minutes
+- Full Video on Design Patterns : https://www.youtube.com/watch?v=f5Rzr5mVNbY
+- Basics of Web Application : https://github.com/in28minutes/RealWorldWebApplicationWithServletsAndJspIn28Minutes/blob/master/Java%20JEE%20Web%20Applicaiton%20In28Minutes.pdf
+- Java EE Design Patterns : https://github.com/in28minutes/Java-EE-Design-Patterns/blob/master/JavaEE%20Design%20Patterns%20and%20Architecture%20-%20Presentation%20v0.7.pdf
+- Java Design Patterns : https://github.com/in28minutes/Design-Patterns-For-Beginners/blob/master/DesignPatterns-Presentation.pdf
+- RECOMMENDED COURSE
+- Java EE Patterns : https://www.udemy.com/java-ee-design-patterns-architecture-and-frameworks/?couponCode=JEEPATTERNS-UTUBE-1
+
+- https://github.com/in28minutes/RealWorldWebApplicationWithServletsAndJspIn28Minutes/blob/master/Java%20JEE%20Web%20Applicaiton%20In28Minutes.pdf
+- Code : https://github.com/in28minutes/JavaWebApplicationStepByStep
+- 60 Minute Video on JSP Servlets : https://www.youtube.com/watch?v=Vvnliarkw48
+- Full Video on Design Patterns : https://www.youtube.com/watch?v=f5Rzr5mVNbY
+- Java EE Design Patterns : https://github.com/in28minutes/Java-EE-Design-Patterns/blob/master/JavaEE%20Design%20Patterns%20and%20Architecture%20-%20Presentation%20v0.7.pdf
+- Java Design Patterns : https://github.com/in28minutes/Design-Patterns-For-Beginners/blob/master/DesignPatterns-Presentation.pdf
+- What are important Java EE Design Patterns? https://github.com/in28minutes/Java-EE-Design-Patterns
+- Video : https://www.youtube.com/watch?v=1WgsDP10iqw
+- What is JPA? https://github.com/in28minutes/HibernateJPAStepByStep
+- Hibernate interview Questions : https://www.youtube.com/watch?v=nb4kKVDc4cE
+- Introduction to Transaction Management : https://www.youtube.com/watch?v=HcjHJLEbtRs
+- Everything from https://github.com/in28minutes/Java-EE-Design-Patterns/blob/master/JavaEE%20Design%20Patterns%20and%20Architecture%20-%20Presentation%20v0.7.
+- https://github.com/in28minutes/MavenIn28Minutes
+- Maven : https://www.youtube.com/watch?v=0CFWeVgzsqY
+- https://github.com/in28minutes/EclipseIn28Minutes
+- Eclipse : https://www.youtube.com/watch?v=s4ShbtOHMCA
