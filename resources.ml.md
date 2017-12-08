@@ -7,6 +7,16 @@
 * [The LION Way: Machine Learning plus Intelligent Optimization](http://www.lionsolver.com/LIONbook/) - Robert Battiti and Mauro Brunato
 * [Thinking Bayes](http://www.greenteapress.com/thinkbayes/) - Allen B. Downey
 * [Sklearn Basics](http://nbviewer.ipython.org/github/jakevdp/sklearn_scipy2013/tree/master/notebooks/)
+* Machine Learning (Theory) http://hunch.net/ 
+* Machine Learning and Data Science http://alexhwoods.com/blog/ 
+* Machine Learning https://charlesmartin14.wordpress.com/ 
+* Machine Learning Mastery http://machinelearningmastery.com/blog/ 
+* Machine Learning Blogs https://machinelearningblogs.com/ 
+* Machine Learning, etc http://yaroslavvb.blogspot.com 
+* Machine Learning, Maths and Physics https://mlopezm.wordpress.com/ 
+* Machined Learnings http://www.machinedlearnings.com/ 
+* Startup.ML Blog http://startup.ml/blog 
+
 
 Books
 -----
