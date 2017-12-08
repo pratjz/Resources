@@ -12,7 +12,6 @@
 * Alex Castrounis | InnoArchiTech http://www.innoarchitech.com/ 
 * Alex Perrier http://alexperrier.github.io/ 
 * Algobeans | Data Analytics Tutorials & Experiments for the Layman https://algobeans.com 
-* Amazon AWS AI Blog https://aws.amazon.com/blogs/ai/ 
 * Analytics Vidhya http://www.analyticsvidhya.com/blog/ 
 * Analytics and Visualization in Big Data @ Sicara https://blog.sicara.com 
 * Andreas Müller http://peekaboo-vision.blogspot.com/ 
@@ -28,9 +27,7 @@
 * Becoming A Data Scientist http://www.becomingadatascientist.com/ 
 * Ben Bolte's Blog http://benjaminbolte.com/ml/ 
 * Ben Frederickson http://www.benfrederickson.com/blog/ 
-* Berkeley AI Research http://bair.berkeley.edu/blog/ 
 * Big-Ish Data http://bigishdata.com/ 
-* Blog on neural networks http://yerevann.github.io/ 
 * Blogistic Regression https://wcbeard.github.io/blog/ 
 * blogR | R tips and tricks from a scientist https://drsimonj.svbtle.com/ 
 * Brain of mat kelcey http://matpalm.com/blog/ 
@@ -75,7 +72,6 @@
 * DatasFrame http://tomaugspurger.github.io/ 
 * David Mimno http://www.mimno.org/ 
 * Dayne Batten http://daynebatten.com 
-* Deep Learning http://deeplearning.net/blog/ 
 * Deepdish http://deepdish.io/ 
 * Delip Rao http://deliprao.com/ 
 * DENNY'S BLOG http://blog.dennybritz.com/ 
@@ -137,14 +133,6 @@
 * Louis Dorard http://www.louisdorard.com/blog/ 
 * M.E.Driscoll http://medriscoll.com/ 
 * Machinalis http://www.machinalis.com/blog 
-* Machine Learning (Theory) http://hunch.net/ 
-* Machine Learning and Data Science http://alexhwoods.com/blog/ 
-* Machine Learning https://charlesmartin14.wordpress.com/ 
-* Machine Learning Mastery http://machinelearningmastery.com/blog/ 
-* Machine Learning Blogs https://machinelearningblogs.com/ 
-* Machine Learning, etc http://yaroslavvb.blogspot.com 
-* Machine Learning, Maths and Physics https://mlopezm.wordpress.com/ 
-* Machined Learnings http://www.machinedlearnings.com/ 
 * MAPPING BABEL https://jack-clark.net/ 
 * MAPR Blog https://mapr.com/blog/
 * MAREK REI http://www.marekrei.com/blog/ 
@@ -169,7 +157,6 @@
 * no free hunch http://blog.kaggle.com/ 
 * Nuit Blanche http://nuit-blanche.blogspot.com/ 
 * Number 2147483647 https://no2147483647.wordpress.com/ 
-* On Machine Intelligence https://aimatters.wordpress.com/ 
 * Opiate for the masses Data is our religion. http://opiateforthemass.es/ 
 * p-value.info http://www.p-value.info/ 
 * Pete Warden's blog http://petewarden.com/ 
@@ -181,8 +168,6 @@
 * PyImageSearch http://www.pyimagesearch.com/ 
 * Pythonic Perambulations https://jakevdp.github.io/ 
 * quintuitive http://quintuitive.com/ 
-* R and Data Mining https://rdatamining.wordpress.com/ 
-* R-bloggers http://www.r-bloggers.com/ 
 * R2RT http://r2rt.com/ 
 * Ramiro Gómez http://ramiro.org/notebooks/ 
 * Random notes on Computer Science, Mathematics http://barmaley-exe.github.io/ 
@@ -202,13 +187,9 @@
 * Sebastian's slow blog http://www.nowozin.net/sebastian/blog/ 
 * SFL Scientific Blog https://sflscientific.com/blog-index/ 
 * Shakir's Machine Learning Blog http://blog.shakirm.com/ 
-* Simply Statistics http://simplystatistics.org 
 * Springboard Blog http://springboard.com/blog
-* Startup.ML Blog http://startup.ml/blog 
-* Statistical Modeling, Causal Inference, and Social Science http://andrewgelman.com/ 
 * Stigler Diet http://stiglerdiet.com/ 
 * Stitch Fix Tech Blog http://multithreaded.stitchfix.com/blog/ 
-* Stochastic R&D Notes http://arseny.info/ 
 * Storytelling with Statistics on Quora http://datastories.quora.com/
 * StreamHacker http://streamhacker.com/ 
 * Subconscious Musings http://blogs.sas.com/content/subconsciousmusings/ 
