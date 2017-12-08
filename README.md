@@ -19,4 +19,3 @@
 | SQL                    |https://github.com/dtflaneur/Resources/blob/master/resources.sql.md         |
 | Statistics             |https://github.com/dtflaneur/Resources/blob/master/resources.stats.md       |
 | Stem                   |https://github.com/dtflaneur/Resources/blob/master/resources.stem.md        |
-|------------------------|----------------------------------------------------------------------------|
