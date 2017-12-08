@@ -1,10 +1,7 @@
 ### Systems
 
 - [CS 61C](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) **Great Ideas in Computer Architecture (Machine Structures)** *UC Berkeley*
-	- [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter)
- 	- [Lecture Notes](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Calendar)
-	- [Resources](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Resources)
-	- [Old Exams](https://hkn.eecs.berkeley.edu/exams/course/CS/61C)
+	- [Lecture Videos](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iCl2-D-FS5mk0jFF6cYSJs_?sort=titleSorter), [Lecture Notes](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Calendar), [Resources](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/#Resources), [Old Exams](https://hkn.eecs.berkeley.edu/exams/course/CS/61C)
 - [CS 107](https://courseware.stanford.edu/pg/courses/lectures/371747) **Computer Organization & Systems** *Stanford University*
 	- [Lecture Videos](https://www.youtube.com/playlist?list=PL08D9FA018A965057&spfreload=10)
 	- [Assignments](http://web.stanford.edu/class/cs107/assignments.html)
