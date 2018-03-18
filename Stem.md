@@ -40,16 +40,3 @@
 * [Sustainable Energy - without the hot air (2009)](https://unglue.it/work/140777/) - David J. C. MacKay
 * [Understanding the Global Energy Crisis (2014)](https://unglue.it/work/136212/) - Eugene D. Coyle and Richard A. Simmons
 
-
-# - Sections to add
-
-* (QE) Geology 
-* (QH) Natural history
-* (QK) Botany
-* (QL) Zoology
-* (QM) Human anatomy
-* (QP) Physiology
-* (QR) Microbiology
-* [(R)](http://www.loc.gov/aba/cataloging/classification/lcco/lcco_r.pdf) Medicine (PDF)
-
-
