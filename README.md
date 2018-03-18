@@ -1,6 +1,6 @@
 # Resources
 
-* [Artificial Intelligence]https://github.com/dtflaneur/Resources/blob/master/AI.md)
+* [Artificial Intelligence](https://github.com/dtflaneur/Resources/blob/master/AI.md)
 * [BLOGS](https://github.com/dtflaneur/Resources/blob/master/Blogs.md)
 * [Data Science](https://github.com/dtflaneur/Resources/blob/master/DataScience.md)
 * [Deep Learning](https://github.com/dtflaneur/Resources/blob/master/DL.md)
