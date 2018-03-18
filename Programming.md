@@ -4049,4 +4049,5 @@ Use design patterns such that it can be reused in multiple applications.
 * [Concurrency is not parallelism](https://vimeo.com/49718712)
 * [Multi-core and multi-threading performance (the multi-core myth?)](https://scalibq.wordpress.com/2012/06/01/multi-core-and-multi-threading/)
 
+1. [Resources for Amateur Compiler Writers] (http://c9x.me/compile/bib/)
 
