@@ -106,3 +106,10 @@ Other
 * `The Matrix Cookbook (2012) <http://www2.imm.dtu.dk/pubdb/views/edoc_download.php/3274/pdf/imm3274.pdf>`_
 * `Probability Cheatsheet  v2.0 (2015) <http://static1.squarespace.com/static/54bf3241e4b0f0d81bf7ff36/t/55e9494fe4b011aed10e48e5/1441352015658/probability_cheatsheet.pdf>`_
 
+
+# Markov model
+
+* [From “What is a Markov Model” to “Here is how Markov Models Work”](https://hackernoon.com/from-what-is-a-markov-model-to-here-is-how-markov-models-work-1ac5f4629b71) [x]
+* [লজিস্টিক রিগ্রেশন : প্রব্যাবিলিটি, বার্নুলি ও বাইনোমিয়াল ডিস্ট্রিবিউশন - Probability Refresher](https://ml.manash.me/logistic_regression/logreg_distribution.html)
+* [Machine learning - Importance sampling and MCMC I](https://www.youtube.com/watch?v=TNZk8lo4e-Q&index=19&list=PLnWkMhyDLp1CVv-tftGYPzGxmH0OF5JIi)
+
