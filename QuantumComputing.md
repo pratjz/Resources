@@ -81,8 +81,3 @@ Sharing, suggestions and contributions are always welcome! Please take a look at
 - [Quantum Computing StackExchange](http://quantumcomputing.stackexchange.com/) - Question and answer site for quantum computing.
 - [Quantum Information and Quantum Computer Scientists of the World Unite](https://www.facebook.com/groups/qinfo.scientists.unite/) - Facebook group for quantum research discussion. 
 - [Rigetti Community](http://slack.rigetti.com/) - Slack Channel for Rigetti and quantum computing discussions.
-
-## License
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Desiree Vogt-Lee](https://github.com/desireevl) has waived all copyright and related or neighboring rights to this work.
