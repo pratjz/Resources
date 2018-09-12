@@ -24,4 +24,3 @@
 * [FunctionalProg](https://github.com/dtflaneur/Resources/blob/master/FunctionalProg.md)
 * [GoLang](https://github.com/dtflaneur/Resources/blob/master/GoLang.md)
 * [Linux](https://github.com/dtflaneur/Resources/blob/master/Linux.md)
-* [Movies](https://github.com/dtflaneur/Resources/blob/master/Movies.md)
