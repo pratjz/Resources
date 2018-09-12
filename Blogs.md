@@ -1,4 +1,4 @@
-# blogs
+# Blogs
 
 * A Blog From a Human-engineer-being http://www.erogol.com/ 
 * Aakash Japi http://aakashjapi.com/ 
