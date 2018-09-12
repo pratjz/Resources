@@ -1,4 +1,4 @@
-# Functional Programming Refreseher
+# Functional Programming
 
 Goals:
 * Understand Functional Programming, train my brain to think functional but only when it is needed.
