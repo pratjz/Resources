@@ -59,12 +59,6 @@ Articles
 * `Parsing English in 500 Lines of Python (2013) <https://explosion.ai/blog/parsing-english-in-python>`_
 * `Python PerformanceTips <https://wiki.python.org/moin/PythonSpeed/PerformanceTips>`_
 
-Podcasts
---------
-
-* `Talk Python To Me <https://talkpython.fm/>`_
-* `Podcast.__init__ <https://pythonpodcast.com/>`_
-
 Other
 -----
 
