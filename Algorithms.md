@@ -12,7 +12,6 @@ A list of places to learn and/or practice algorithms.
 
 ## Websites
 
-*Websites you should use to learn classic algorithms*
 
 * [A Visual Guide to Graph Traversal Algorithms](https://workshape.github.io/visual-graph-algorithms/) - Interactive visualisations for learning how graph traversal algorithms work
 * [Algomation](http://www.algomation.com/) - A didactic, animated, exposition of algorithms.
