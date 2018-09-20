@@ -1,0 +1,16 @@
+# Convolutional Neural Network and Computer Vision
+
+- [2012 NIPS] **ImageNet Classification with Deep Convolutional Neural Networks**, _AlexNet_, [[paper]](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf).
+- [2014 ECCV] **Visualizing and Understanding Convolutional Networks**, [[paper]](https://arxiv.org/abs/1311.2901.pdf).
+- [2014 ArXiv] **Very Deep Convolutional Networks for Large-Scale Image Recognition**, _VGG_, [[paper]](https://arxiv.org/abs/1409.1556.pdf).
+- [2015 CVPR] **Going Deeper with Convolutions**, _GoogLeNet_, [[paper]](https://arxiv.org/abs/1409.4842.pdf).
+- [2016 ICML] **Learning Convolutional Neural Networks for Graphs**, [[paper]](https://arxiv.org/abs/1605.05273.pdf).
+- [2016 CVPR] **End-to-end Learning of Action Detection from Frame Glimpses in Videos**, [[paper]](http://openaccess.thecvf.com/content_cvpr_2016/papers/Yeung_End-To-End_Learning_of_CVPR_2016_paper.pdf), sources: [[syyeung/frameglimpses]](https://github.com/syyeung/frameglimpses).
+- [2017 ICML] **Language Modeling with Gated Convolutional Networks**, [[paper]](https://arxiv.org/pdf/1612.08083.pdf), sources: [[jojonki/Gated-Convolutional-Networks]](https://github.com/jojonki/Gated-Convolutional-Networks), [[anantzoid/Language-Modeling-GatedCNN]](https://github.com/anantzoid/Language-Modeling-GatedCNN).
+- [2017 CVPR] **Densely Connected Convolutional Networks**, [[paper]](https://arxiv.org/abs/1608.06993.pdf), sources: [[liuzhuang13/DenseNet]](https://github.com/liuzhuang13/DenseNet).
+- [2017 CVPR] **PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation**, [[paper]](https://arxiv.org/pdf/1612.00593.pdf), sources: [[charlesq34/pointnet]](https://github.com/charlesq34/pointnet).
+- [2017 ICCV] **Mask R-CNN**, [[paper]](https://arxiv.org/pdf/1703.06870.pdf), [[tutorial]](http://kaiminghe.com/iccv17tutorial/maskrcnn_iccv2017_tutorial_kaiminghe.pdf), [[video]](https://www.youtube.com/watch?v=2TikTv6PWDw), sources: [[matterport/Mask_RCNN]](https://github.com/matterport/Mask_RCNN), [[CharlesShang/FastMaskRCNN]](https://github.com/CharlesShang/FastMaskRCNN), [[facebookresearch/Detectron]](https://github.com/facebookresearch/Detectron).
+- [2017 ICCV] **Focal Loss for Dense Object Detection**, [[paper]](http://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf), [[bibtex]](/Bibtex/Focal%20Loss%20for%20Dense%20Object%20Detection.bib), sources: [[unsky/focal-loss]](https://github.com/unsky/focal-loss), [[ailias/Focal-Loss-implement-on-Tensorflow]](https://github.com/ailias/Focal-Loss-implement-on-Tensorflow).
+- [2018 AAAI] **Towards Perceptual Image Dehazing by Physics-based Disentanglement and Adversarial Training**, [[paper]](https://pdfs.semanticscholar.org/7a73/6b46b37a67a440a29593e261f7c0b63f0ad5.pdf).
+- [2018 IJCAI] **DehazeGAN: When Image Dehazing Meets Differential Programming**, [[paper]](http://www.ijcai.org/proceedings/2018/0172.pdf).
+- [2018 CVPR] **Zero-shot Recognition via Semantic Embeddings and Knowledge Graphs**, [[paper]](https://arxiv.org/pdf/1803.08035.pdf), [[blog]](https://www.cnblogs.com/wangxiaocvpr/p/8682608.html), sources: [[JudyYe/zero-shot-gcn]](https://github.com/JudyYe/zero-shot-gcn).
